@@ -2,7 +2,7 @@
 
 Our shared repo for building websites for clients and selling them. This README explains how we work together so we don't overwrite each other's work, and how a site goes from first message to launched and paid for.
 
-https://xdiv01.github.io/sushi/
+https://xdiv01.github.io/Sushi-Station-/
 
 ## Who we are
 
